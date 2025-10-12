@@ -1,143 +1,287 @@
-# مرحباً! 👋 أنا [اسمك هنا]
+\# مرحباً! 👋 أنا عمر حسن
+
+
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=4F8CC9&center=true&vCenter=true&width=435&lines=مطور+برمجيات+متحمس;Full+Stack+Developer;مصمم+واجهات+مستخدم;مطور+تطبيقات+ويب" alt="Typing SVG" />
+
+&nbsp; <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code\&weight=500\&size=28\&pause=1000\&color=4F8CC9\&center=true\&vCenter=true\&width=435\&lines=Full+Stack+Developer;مطور+تطبيقات+ويب+وموبايل;مسوق+إلكتروني+محترف;مؤسس+Rise+Rebix" alt="Typing SVG" />
+
 </div>
+
+
 
 ---
 
-## 🚀 عني
 
-مطور برمجيات شغوف بتطوير حلول تقنية مبتكرة ومفيدة. أعمل على تطوير تطبيقات الويب والموبايل باستخدام أحدث التقنيات والأدوات.
 
-### 💻 المهارات التقنية
+\## 🚀 عني
 
-#### لغات البرمجة
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 
-#### تقنيات الويب
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 
-#### قواعد البيانات
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+مطور برمجيات ومسوق إلكتروني محترف من مصر 🇪🇬، مؤسس شركة **Rise Rebix** للحلول التقنية الموجهة للقطاع العقاري. أعمل حاليًا كأخصائي محتوى ووسائل تواصل اجتماعي في **Avenue Advertising Agency** بالشيخ زايد. متخصص في تطوير تطبيقات الويب والموبايل باستخدام أحدث التقنيات، مع خبرة في التسويق العضوي وبناء العلامات التجارية.
 
-#### أدوات التطوير
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+
+\### 💻 المهارات التقنية
+
+
+
+\#### لغات البرمجة
+
+!\[Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+
+!\[JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
+
+!\[PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square\&logo=php\&logoColor=white)
+
+!\[Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square\&logo=dart\&logoColor=white)
+
+
+
+\#### تقنيات الويب
+
+!\[React](https://img.shields.io/badge/-React-61DAFB?style=flat-square\&logo=react\&logoColor=black)
+
+!\[Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square\&logo=node.js\&logoColor=white)
+
+!\[HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square\&logo=html5\&logoColor=white)
+
+!\[CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square\&logo=css3\&logoColor=white)
+
+!\[Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square\&logo=flutter\&logoColor=white)
+
+
+
+\#### قواعد البيانات
+
+!\[Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square\&logo=supabase\&logoColor=white)
+
+!\[MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
+
+
+
+\#### أدوات التطوير
+
+!\[Git](https://img.shields.io/badge/-Git-F05032?style=flat-square\&logo=git\&logoColor=white)
+
+!\[VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square\&logo=visual-studio-code\&logoColor=white)
+
+!\[Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square\&logo=netlify\&logoColor=white)
+
+!\[Google Play](https://img.shields.io/badge/-Google%20Play-414141?style=flat-square\&logo=google-play\&logoColor=white)
+
+
 
 ---
 
-## 📊 إحصائيات GitHub
+
+
+\## 📊 إحصائيات GitHub
+
+
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true" alt="GitHub Streak" />
+
+&nbsp; <img src="https://github-readme-stats.vercel.app/api?username=tnzxo\&show\_icons=true\&theme=radical\&hide\_border=true" alt="GitHub Stats" />
+
+&nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=tnzxo\&theme=radical\&hide\_border=true" alt="GitHub Streak" />
+
 </div>
 
+
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+
+&nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tnzxo\&layout=compact\&theme=radical\&hide\_border=true" alt="Top Languages" />
+
 </div>
+
+
 
 ---
 
-## 🏆 المشاريع المميزة
+
+
+\## 🏆 المشاريع المميزة
+
+
 
 <table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">مشروع 1</h3>
-      <div align="center">
-        <a href="https://github.com/YOUR_USERNAME/project1" target="_blank">
-          <img src="https://via.placeholder.com/400x200/4F8CC9/FFFFFF?text=Project+1" width="100%" alt="Project 1"/>
-        </a>
-        <p align="center">
-          <a href="https://github.com/YOUR_USERNAME/project1" target="_blank">
-            <img src="https://img.shields.io/badge/Code-000000?style=for-the-badge&logo=github&logoColor=white" alt="Code"/>
-          </a>
-          <a href="https://project1-demo.com" target="_blank">
-            <img src="https://img.shields.io/badge/Live_Demo-4F8CC9?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
-          </a>
-        </p>
-        <p align="center">
-          تطبيق ويب متطور مبني بـ React و Node.js مع قاعدة بيانات MongoDB
-        </p>
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">مشروع 2</h3>
-      <div align="center">
-        <a href="https://github.com/YOUR_USERNAME/project2" target="_blank">
-          <img src="https://via.placeholder.com/400x200/4F8CC9/FFFFFF?text=Project+2" width="100%" alt="Project 2"/>
-        </a>
-        <p align="center">
-          <a href="https://github.com/YOUR_USERNAME/project2" target="_blank">
-            <img src="https://img.shields.io/badge/Code-000000?style=for-the-badge&logo=github&logoColor=white" alt="Code"/>
-          </a>
-          <a href="https://project2-demo.com" target="_blank">
-            <img src="https://img.shields.io/badge/Live_Demo-4F8CC9?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
-          </a>
-        </p>
-        <p align="center">
-          تطبيق موبايل هجين مبني بـ React Native مع واجهة مستخدم حديثة
-        </p>
-      </div>
-    </td>
-  </tr>
+
+&nbsp; <tr>
+
+&nbsp;   <td width="50%">
+
+&nbsp;     <h3 align="center">CalcRealty</h3>
+
+&nbsp;     <div align="center">
+
+&nbsp;       <a href="https://calcrealty.netlify.app" target="\_blank">
+
+&nbsp;         <img src="https://via.placeholder.com/400x200/4F8CC9/FFFFFF?text=CalcRealty" width="100%" alt="CalcRealty"/>
+
+&nbsp;       </a>
+
+&nbsp;       <p align="center">
+
+&nbsp;         <a href="https://play.google.com/store/apps/details?id=com.calcrealty" target="\_blank">
+
+&nbsp;           <img src="https://img.shields.io/badge/Google\_Play-414141?style=for-the-badge\&logo=google-play\&logoColor=white" alt="Google Play"/>
+
+&nbsp;         </a>
+
+&nbsp;         <a href="https://calcrealty.netlify.app" target="\_blank">
+
+&nbsp;           <img src="https://img.shields.io/badge/Live\_Demo-4F8CC9?style=for-the-badge\&logo=netlify\&logoColor=white" alt="Live Demo"/>
+
+&nbsp;         </a>
+
+&nbsp;       </p>
+
+&nbsp;       <p align="center">
+
+&nbsp;         تطبيق عقاري متطور مبني بـ Flutter وSupabase - أكثر من 2000 تحميل و1500 مستخدم نشط. يحتوي على حاسبة المقدم والأقساط مع إمكانية تصدير PDF
+
+&nbsp;       </p>
+
+&nbsp;     </div>
+
+&nbsp;   </td>
+
+&nbsp;   <td width="50%">
+
+&nbsp;     <h3 align="center">Rise Rebix</h3>
+
+&nbsp;     <div align="center">
+
+&nbsp;       <a href="#" target="\_blank">
+
+&nbsp;         <img src="https://via.placeholder.com/400x200/4F8CC9/FFFFFF?text=Rise+Rebix" width="100%" alt="Rise Rebix"/>
+
+&nbsp;       </a>
+
+&nbsp;       <p align="center">
+
+&nbsp;         <a href="#" target="\_blank">
+
+&nbsp;           <img src="https://img.shields.io/badge/Coming\_Soon-4F8CC9?style=for-the-badge\&logo=rocket\&logoColor=white" alt="Coming Soon"/>
+
+&nbsp;         </a>
+
+&nbsp;       </p>
+
+&nbsp;       <p align="center">
+
+&nbsp;         شركة تقنية ناشئة تقدم حلولاً متكاملة للقطاع العقاري - تطبيقات، أدوات، وأنظمة إدارة متطورة
+
+&nbsp;       </p>
+
+&nbsp;     </div>
+
+&nbsp;   </td>
+
+&nbsp; </tr>
+
 </table>
 
----
 
-## 🎯 الأهداف الحالية
-
-- [ ] تطوير تطبيق إدارة المهام المتقدم
-- [ ] تعلم تقنية WebAssembly
-- [ ] المساهمة في مشاريع مفتوحة المصدر
-- [ ] إنشاء دورة تعليمية للبرمجة
 
 ---
 
-## 📫 طرق التواصل
+
+
+\## 🎯 الأهداف الحالية
+
+
+
+\- \[x] تطوير تطبيق CalcRealty - أكثر من 2000 تحميل
+
+\- \[x] تأسيس شركة Rise Rebix للحلول التقنية
+
+\- \[ ] توسيع CalcRealty بميزات ROI وROE وخطة السداد
+
+\- \[ ] إطلاق موقعي الشخصي
+
+\- \[ ] بناء مشاريع تقنية جديدة لتحقيق دخل شهري 10,000-100,000 جنيه
+
+
+
+---
+
+
+
+\## 📫 طرق التواصل
+
+
 
 <div align="center">
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://linkedin.com/in/your-profile">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com/your-handle">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="https://your-portfolio.com">
-    <img src="https://img.shields.io/badge/Portfolio-4F8CC9?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>
+
+&nbsp; <a href="mailto:omar.agha.info@gmail.com">
+
+&nbsp;   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white" alt="Email"/>
+
+&nbsp; </a>
+
+&nbsp; <a href="https://linkedin.com/in/tn-omar">
+
+&nbsp;   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white" alt="LinkedIn"/>
+
+&nbsp; </a>
+
+&nbsp; <a href="https://instagram.com/tn.omar">
+
+&nbsp;   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white" alt="Instagram"/>
+
+&nbsp; </a>
+
+&nbsp; <a href="https://facebook.com/tn.omar">
+
+&nbsp;   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge\&logo=facebook\&logoColor=white" alt="Facebook"/>
+
+&nbsp; </a>
+
 </div>
+
+
 
 ---
 
-## 🎨 تصميم ملف README
 
-<div align="center">
-  <img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Game"/>
-</div>
+
+## 🎨 معلومات إضافية
+
+**📍 الموقع:** مدينة أكتوبر، الجيزة، مصر
+
+**🎓 التعليم:** نظم المعلومات الإدارية - معهد الفراعنة العالي (السنة الرابعة)
+
+**💼 الخبرة:** 
+- مستشار عقاري سابق في The Avenue Properties
+- أخصائي محتوى ووسائل تواصل اجتماعي في Avenue Advertising Agency
+- متخصص في التسويق العضوي على وسائل التواصل الاجتماعي
+
+**🌟 الإنجازات:**
+- أكثر من 2000 تحميل لتطبيق CalcRealty
+- مصنف ضمن أفضل 20 تطبيقاً في فئة "الأعمال" على Google Play
+- القدرة على جذب 10-20 عميل محتمل يومياً عبر التسويق العضوي
+
+
 
 ---
 
+
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=4F8CC9" alt="Profile Views"/>
-  
-  **شكراً لزيارتك! 😊**
+
+&nbsp; <img src="https://komarev.com/ghpvc/?username=tnzxo\&style=flat-square\&color=4F8CC9" alt="Profile Views"/>
+
+&nbsp; 
+
+&nbsp; \*\*شكراً لزيارتك! 😊\*\*
+
 </div>
+
+
+
+
+
+
