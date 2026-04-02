@@ -99,19 +99,20 @@ Hybrid by design — **intentional**, not buzzword-driven.
 
 ## 📊 GitHub activity
 
+<!-- github-readme-stats.vercel.app is often paused / rate-limited — using profile-summary-cards + demolab streak instead -->
+
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Omar-Tnzxo&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
+<img src="https://streak-stats.demolab.com/?user=Omar-Tnzxo&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 
-<img height="165" src="https://streak-stats.demolab.com/?user=Omar-Tnzxo&theme=tokyonight&hide_border=true" alt="Streak stats" />
+<br/><br/>
 
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omar-Tnzxo&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Omar-Tnzxo&theme=tokyonight" alt="GitHub profile stats" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Omar-Tnzxo&theme=tokyonight" alt="Top languages by repo" />
 
 </div>
 
-<sub>Stats reflect **public** activity only.</sub>
+<sub>Cards reflect **public** GitHub activity. If an image ever fails, reload — third-party SVG hosts can be temporarily busy.</sub>
 
 ---
 
