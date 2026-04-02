@@ -1,178 +1,147 @@
+<!-- Profile README for github.com/Omar-Tnzxo/Omar-Tnzxo — copy as README.md -->
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=26&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Omar+Hassan+%7C+Hybrid+Developer+%26+Growth+Operator;Building+Products%2C+Systems%2C+and+Digital+Leverage;Tech+meets+Marketing+%E2%80%94+2026+Mindset" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1000&color=F0F6FC&center=true&vCenter=true&width=700&lines=Omar+Hassan+%7C+Hybrid+Developer+%26+Growth+Operator;Products%2C+Systems%2C+and+Digital+Leverage;Engineering+%C3%97+Marketing+%E2%80%94+Built+for+2026" alt="Typing intro" />
+
+<br/>
+
+[![Profile views](https://komarev.com/ghpvc/?username=Omar-Tnzxo&color=0e6399&style=flat)](https://github.com/Omar-Tnzxo)
+[![GitHub Omar-Tnzxo](https://img.shields.io/github/followers/Omar-Tnzxo?label=Follow&style=social)](https://github.com/Omar-Tnzxo)
 
 </div>
 
 ---
 
-## 👋 About Me
+## 👋 About
 
-I’m **Omar Hassan (aka TNZXO)** — a **Hybrid Developer & Marketing Operator**.
+I’m **Omar Hassan** (**TNZXO**) — a **hybrid developer and growth-oriented operator**.
 
-I work at the intersection of **software engineering, product thinking, and growth systems**.  
-I don’t just build code — I build **usable products, scalable tools, and business-ready systems**.
+I sit between **software engineering**, **product**, and **go-to-market**: shipping **usable software**, **repeatable systems**, and **business-ready tools** — not slides.
 
-My edge is simple:
-> I understand **technology**, **markets**, and **users** — at the same time.
+**In one line:** I connect **how things are built** with **why they matter in the market**.
 
----
-
-## 🧠 What I Do (Clearly)
-
-- Design and build **real-world software products**
-- Translate **business needs** into **technical systems**
-- Combine **engineering + sales + marketing** into one execution loop
-- Build tools that save time, reduce friction, and increase leverage
-
-This hybrid approach is intentional — and rare.
+> I care about **technology**, **markets**, and **users** — together, not in silos.
 
 ---
 
-## 🧩 Skill Set (Structured, Not Inflated)
+## 🧭 What I focus on
 
-### 🧠 Core Domains
-- Software Development
-- Product & System Design
-- Growth & Digital Marketing
-- Sales Enablement & Funnels
-- Automation & AI-assisted workflows
+| Area | What that looks like |
+|:-----|:---------------------|
+| **Build** | End-to-end product delivery — from idea to maintainable codebase |
+| **Translate** | Business goals → specs, metrics, and technical scope |
+| **Integrate** | Engineering, marketing, and sales in one execution loop |
+| **Automate** | Less manual work — more leverage via tools and AI-assisted workflows |
 
----
-
-### 🛠️ Technologies & Tools  
-*(Full list — you’ll validate what’s active later)*
-
-**Programming & Development**
-- Python  
-- JavaScript  
-- Dart  
-- HTML / CSS  
-
-**Frameworks & Platforms**
-- Flutter  
-- React.js  
-- Node.js  
-
-**Backend / Data**
-- REST APIs  
-- Supabase  
-- Firebase  
-- SQL / NoSQL concepts  
-
-**AI & Automation**
-- AI APIs & tooling  
-- Prompt engineering  
-- Workflow automation  
-
-**Marketing & Growth**
-- Performance marketing concepts  
-- Content systems  
-- Conversion-focused UX  
-- CRM & sales workflows  
-
-**Tools & Environment**
-- Git / GitHub  
-- Linux & Windows  
-- Analytics & dashboards  
+Hybrid by design — **intentional**, not buzzword-driven.
 
 ---
 
-## 🚀 Featured Projects (Private, Product-Level)
+## 🧩 Skills (honest stack)
 
-### 📱 CalcRealty  
-**Smart real estate calculator app**
+<details>
+<summary><b>Programming & frontends</b></summary>
 
-- Built to simplify real estate financial decisions
-- Focused on speed, clarity, and real-world usage
-- Used by brokers and real estate professionals
+| Languages | Frameworks / runtimes |
+|:----------|:----------------------|
+| Python · JavaScript · Dart | Flutter · React · Node.js |
+| HTML · CSS | REST APIs, component-driven UIs |
 
-🔗 Product link available upon request
+</details>
 
----
+<details>
+<summary><b>Backend, data & infra (concepts → production)</b></summary>
 
-### 🏢 EstatiaPax  
-**Real estate management system**
+- REST APIs · SQL / NoSQL fundamentals  
+- **Supabase** · **Firebase** (where projects demand it)  
+- **Git** · **GitHub** · Windows & Linux day-to-day  
 
-- Internal system for managing properties & operations
-- Designed for operational efficiency
-- Combines tech + real estate domain knowledge
+</details>
 
-🔒 Private system
+<details>
+<summary><b>AI, automation & growth</b></summary>
 
----
+- AI APIs, prompt design, workflow automation  
+- Performance & content systems, conversion-aware UX  
+- CRM-aligned flows and sales-enablement tooling  
 
-### 🌐 DropZone  
-**Web-based platform**
-
-- Focused on structured digital workflows
-- Built with scalability and UX clarity in mind
-
-🔒 Private project
+</details>
 
 ---
 
-## 🧭 Professional Background
+## 🚀 Featured work
 
-- **Hybrid background**: Technology × Marketing × Sales
-- Experience in **real estate tech, digital marketing, and product execution**
-- Comfortable working with:
-  - Clients
-  - Founders
-  - Recruiters
-  - Cross-functional teams
+> Some work is **private** or **client-bound**. Below is **representative** — not an exhaustive portfolio.
 
-Titles matter less than outcomes — but I operate at **product-level responsibility**.
+| Project | Role | Notes |
+|:--------|:-----|:------|
+| **CalcRealty** | Product / dev | Real-estate calculator — speed & clarity for brokers and pros |
+| **EstatiaPax** | System design | Internal ops — properties & workflows |
+| **DropZone** | Platform | Structured digital workflows, scalability & UX first |
 
----
+**Public example:** [**ulp-lab**](https://github.com/Omar-Tnzxo/ulp-lab) — local desktop tool (Tauri + React + Rust) for text corpus scanning.
 
-## 🧠 How I Think
-
-- Systems over shortcuts  
-- Products over features  
-- Clarity over complexity  
-- Execution beats theory  
-
-> *“If it doesn’t create leverage, it’s noise.”*
+🔗 **Demos / private links** — available on request for serious conversations.
 
 ---
 
-## 📊 GitHub Activity
+## 🧠 Principles
+
+| | |
+|:--|:--|
+| Systems over one-off hacks | Products over feature lists |
+| Clarity over complexity | **Execution over theory** |
+
+> *If it doesn’t create leverage, it’s noise.*
+
+---
+
+## 📊 GitHub activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=omar-tnzxo&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Omar-Tnzxo&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=omar-tnzxo&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://streak-stats.demolab.com/?user=Omar-Tnzxo&theme=tokyonight&hide_border=true" alt="Streak stats" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omar-tnzxo&layout=compact&theme=tokyonight&hide_border=true" />
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omar-Tnzxo&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
 
 </div>
 
+<sub>Stats reflect **public** activity only.</sub>
+
 ---
 
-## 🌍 Let’s Connect
+## 🌍 Connect
 
-- **LinkedIn:** https://www.linkedin.com/in/your-link  
-- **Email:** your@email.com  
-- **Website:** https://yourwebsite.com  
+| | |
+|:---|:---|
+| **Website** | [**omarhassan.site**](https://omarhassan.site) |
+| **LinkedIn** | [**in/omar-tnzxo**](https://www.linkedin.com/in/omar-tnzxo/) |
+| **Email** | [omar.agha.info@gmail.com](mailto:omar.agha.info@gmail.com) |
 
-📩 **Let’s build.**
+📩 Open to **collaboration**, **product conversations**, and **select opportunities**.
+
+<sub>*(Spam risk: listing email publicly can attract bots — you can switch to “contact via site” only if you prefer.)*</sub>
 
 ---
 
 ## ⚠️ Disclaimer
 
-Some projects are private or proprietary.  
-Code shown here reflects **capability**, not full scope.
+Some repositories and systems are **private** or **under NDA**.  
+What you see here shows **direction and capability**, not the full surface area of past work.
 
 ---
 
 <div align="center">
 
-🧠 Hybrid by design — not by trend.  
-⚙️ Builder mindset.  
-🚀 Long-term thinking.
+**Hybrid by design** · **Builder mindset** · **Long horizon**
+
+<br/>
+
+<sub>README optimized for GitHub · 2026</sub>
 
 </div>
